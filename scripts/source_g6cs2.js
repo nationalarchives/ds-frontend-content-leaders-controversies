@@ -1,0 +1,17 @@
+//dynamic menu for Learning Curve (lc) - Heroes and villians klee v1.0
+//Heroes and villians kwok lee v1.1 fix on Opera5 and NS7 and IE cell layer.
+function lcLoadMenus() {
+  if (window.lc_menu_0) return;
+  window.lc_menu_0 = new Menu("root",138,19,"Verdana, Arial, Helvetica, sans-serif",11,"#0099AA","#ffffff","#ffffff","#0099AA","left","middle",0,0,1000,0,0,true,true,true,10,true,true);
+  lc_menu_0.addMenuItem("Source&nbsp;1","location='g6cs2s1.htm'");
+  lc_menu_0.addMenuItem("Source&nbsp;2","location='g6cs2s2a.htm'");
+  lc_menu_0.addMenuItem("Source&nbsp;3","location='g6cs2s3a.htm'");
+  lc_menu_0.addMenuItem("Source&nbsp;4","location='g6cs2s4a.htm'");
+  lc_menu_0.addMenuItem("Source&nbsp;5","location='g6cs2s5a.htm'");
+  lc_menu_0.addMenuItem("Source&nbsp;6","location='g6cs2s6.htm'");
+  lc_menu_0.bgImageUp="/education/heroesvillains/images/dropdown/drop_option_d.gif";
+  lc_menu_0.bgImageOver="/education/heroesvillains/images/dropdown/drop_option_u.gif";
+  lc_menu_0.fontWeight="normal";
+  lc_menu_0.hideOnMouseOut=true;
+  lc_menu_0.writeMenus();
+}//dynamic menu for Learning Curve end

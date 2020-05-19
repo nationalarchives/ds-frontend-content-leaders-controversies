@@ -1,0 +1,6 @@
+<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Kennedy & Cuba | Did international relations improve?" />
+<meta name="DC.subject" content="history, transcript, source, evidence, document, photo, photograph, audio, letter, message, USA, Cuba, Kennedy, America, American, JFK, Castro, Soviet, USSR, Russia, Khrushchev, Macmillan, missile, crisis, weapons, war, nuclear, test, resting, ban, treaty, Kremlin, speech" />
+<meta name="keywords" content="history, transcript, source, evidence, document, photo, photograph, audio, letter, message, USA, Cuba, Kennedy, America, American, JFK, Castro, Soviet, USSR, Russia, Khrushchev, Macmillan, missile, crisis, weapons, war, nuclear, test, resting, ban, treaty, Kremlin, speech"/>
+<meta name="DCTERMS.temporal" content="1933-1963" />
+<meta name="DC.description" content="When the Soviets backed down, the missile crisis was effectively over. In this case study you will examine whether the end of the missile crisis led to an improvement in international relations. For key stage 3-5 (age 11-18)"/>
+<meta name="description" content="When the Soviets backed down, the missile crisis was effectively over. In this case study you will examine whether the end of the missile crisis led to an improvement in international relations. For key stage 3-5 (age 11-18)"/>
