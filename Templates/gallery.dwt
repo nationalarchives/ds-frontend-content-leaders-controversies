@@ -8,7 +8,7 @@
 <!-- TemplateEndEditable -->
 <!--#include file="/education/heroesvillains/includes/meta_egms.inc" -->
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>The National Archives | Heroes &amp; Villains | Churchill &amp; Dresden </title>
+<title>The National Archives | Leaders &amp; Controversies | Churchill &amp; Dresden </title>
 <!-- TemplateEndEditable -->
 <script language="JavaScript" type="text/JavaScript" src="/education/heroesvillains/scripts/browser_g.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/education/heroesvillains/scripts/roll_pop.js"></script>
@@ -38,7 +38,7 @@
   </tr>
   <tr class="hv_breadcrumb">
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="5" /></td>
-    <td width="100%" valign="middle"><a href="/education/heroesvillains/" class="breadcrumb_text">Home</a> 
+    <td width="100%" valign="middle"><a href="/education/heroesvillains/" class="breadcrumb_text">Home</a>
         &gt; <!-- TemplateBeginEditable name="gallery_breadname" -->Churchill &amp; Dresden<!-- TemplateEndEditable --></td>
     <td width="83">&nbsp;</td>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="5" /></td>
@@ -82,7 +82,7 @@
         <tr>
           <td class="hv_gallerylink">
 		  <!-- TemplateBeginEditable name="gallery_links" -->
-          <img src="/education/heroesvillains/images/layout/hv_pic_gallery_g2a.jpg" alt="insert alt tag here" width="520" height="402" />          <p>After you’ve looked at the sources, try this activity based on a map of the city.<br /> 
+          <img src="/education/heroesvillains/images/layout/hv_pic_gallery_g2a.jpg" alt="insert alt tag here" width="520" height="402" />          <p>After you’ve looked at the sources, try this activity based on a map of the city.<br />
 		  <a href="#" class="gallerylink_text">Activity: would you target Dresden?</a></p>
 		  <p>Use this background information to put the missile crisis in its international context:<br />
 		  <a href="/education/heroesvillains/background/g2_background.htm" class="gallerylink_text">Background</a></p>

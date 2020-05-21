@@ -8,7 +8,7 @@
 <!-- TemplateEndEditable -->
 <!--#include file="/education/heroesvillains/includes/meta_egms.inc" -->
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>The National Archives | Heroes &amp; Villains | Glossary</title>
+<title>The National Archives | Leaders &amp; Controversies | Glossary</title>
 <!-- TemplateEndEditable -->
 <script language="JavaScript" type="text/JavaScript" src="/education/heroesvillains/scripts/browser_g.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/education/heroesvillains/scripts/roll_pop.js"></script>
@@ -106,7 +106,7 @@
       <tr>
         <td width="20%"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="10" height="2" /></td>
         <td width="80%"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="10" height="2" /></td>
-	  </tr>	  	  
+	  </tr>
       <tr>
         <td width="20%">&nbsp;</td>
         <td width="80%">&nbsp;</td>
@@ -142,7 +142,7 @@
       <tr>
         <td width="20%"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="10" height="2" /></td>
         <td width="80%"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="10" height="2" /></td>
-	  </tr>	  	  
+	  </tr>
       <tr>
         <td width="20%">&nbsp;</td>
         <td width="80%">&nbsp;</td>
@@ -152,7 +152,7 @@
 	<!-- TemplateEndEditable -->
 	</td>
     <td width="15"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="15" height="15" /></td>
-  </tr>  
+  </tr>
 </table>
 <!--#include file="/education/heroesvillains/includes/hv_popup_footer.inc" -->
 <!--#include virtual="/includes/menu/sdc.inc" -->
