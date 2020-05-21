@@ -99,9 +99,9 @@
 	  			<li><span>Click the <a href="javascript:history.back(1)" class="plainblack">Back</a> button to try another link.</span></li>
 				<li><span>Contact the site administrator to establish client certificate permissions.</span></li>
 				<li><span>Change your client certificate and retry, if appropriate.</span></li>
-				<li><span>If you believe you should be able to view this directory or 
-            page, please contact the Web site administrator by using the email 
-            address on the <a href="/contactus.htm" class="plainblack">Heroes &amp; Villains</a> Web page.</span></li>
+				<li><span>If you believe you should be able to view this directory or
+            page, please contact the Web site administrator by using the email
+            address on the <a href="/contactus.htm" class="plainblack">Leaders &amp; Controversies</a> Web page.</span></li>
 				</ul>
 				<p class="bodyblack">HTTP 403.4 - Forbidden: SSL required<br/>
 				Internet Information Services</p>
