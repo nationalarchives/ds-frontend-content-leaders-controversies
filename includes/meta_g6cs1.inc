@@ -1,4 +1,4 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | King & civil rights | Little Rock" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | King & civil rights | Little Rock" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, civil rights, black, white, race, segregation, desegregation, segregate, segregated, integrate, integration, separate but equal, separate, Little Rock, Little Rock High School, Arkansas, nine black students, Faubus, National Guard, violence, Tokepa, Kansas, Brown, Board of Education, NAACP, south, southern states" />
 <meta name="keywords" content="history, transcript, source, evidence, document, civil rights, black, white, race, segregation, desegregation, segregate, segregated, integrate, integration, separate but equal, separate, Little Rock, Little Rock High School, Arkansas, nine black students, Faubus, National Guard, violence, Tokepa, Kansas, Brown, Board of Education, NAACP, south, southern states" />
 <meta name="DCTERMS.temporal" content="1951-1957" />

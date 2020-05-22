@@ -1,4 +1,4 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Truman & the atomic bomb | Firebombing" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | Truman & the atomic bomb | Firebombing" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, photo, photograph, message, map, fire, bombing, bomb, firebombing, firebomb, Japan, Japanese, morale, military, surrender, USA, Tokyo, Allies, Allied, strategy, damage, Yokohama, Nagoya, Osaka, Kobe" />
 <meta name="keywords" content="history, transcript, source, evidence, document, photo, photograph, message, map, fire, bombing, bomb, firebombing, firebomb, Japan, Japanese, morale, military, surrender, USA, Tokyo, Allies, Allied, strategy, damage, Yokohama, Nagoya, Osaka, Kobe"/>
 <meta name="DCTERMS.temporal" content="1939-1949" />

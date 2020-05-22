@@ -1,4 +1,4 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Kennedy & Cuba | What triggered the missile crisis?" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | Kennedy & Cuba | What triggered the missile crisis?" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, photo, photograph, speech, audio, USA, Cuba, Kennedy, America, American, JFK, Castro, Soviet, USSR, Russia, Khrushchev, missile, bases, weapons, nuclear, Havana, Pentagon, satellite, telegram, letter, message, defence, hydrogen, bomb" />
 <meta name="keywords" content="history, transcript, source, evidence, document, photo, photograph, speech, audio, USA, Cuba, Kennedy, America, American, JFK, Castro, Soviet, USSR, Russia, Khrushchev, missile, bases, weapons, nuclear, Havana, Pentagon, satellite, telegram, letter, message, defence, hydrogen, bomb, U2, spy, plane"/>
 <meta name="DCTERMS.temporal" content="1933-1963" />

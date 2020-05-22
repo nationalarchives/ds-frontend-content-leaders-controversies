@@ -1,6 +1,6 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Kennedy & Cuba | Kennedy’s death" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | Kennedy & Cuba | Kennedyï¿½s death" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, photo, photograph, letter, message, USA, Kennedy, America, American, JFK, Macmillan, assassination, Dallas, Texas, president, motorcade, assassinated, killed, shot, death, dead" />
 <meta name="keywords" content="history, transcript, source, evidence, document, photo, photograph, letter, message, USA, Kennedy, America, American, JFK, Macmillan, assassination, Dallas, Texas, president, motorcade, assassinated, killed, shot, death, dead"/>
 <meta name="DCTERMS.temporal" content="1933-1963" />
-<meta name="DC.description" content="On 22 November 1963, President Kennedy was assassinated in Dallas, Texas. In this case study you will use original documents to investigate how Kennedy’s death affects our view of him. For key stage 3-5 (age 11-18)"/>
-<meta name="description" content="On 22 November 1963, President Kennedy was assassinated in Dallas, Texas. In this case study you will use original documents to investigate how Kennedy’s death affects our view of him. For key stage 3-5 (age 11-18)"/>
+<meta name="DC.description" content="On 22 November 1963, President Kennedy was assassinated in Dallas, Texas. In this case study you will use original documents to investigate how Kennedyï¿½s death affects our view of him. For key stage 3-5 (age 11-18)"/>
+<meta name="description" content="On 22 November 1963, President Kennedy was assassinated in Dallas, Texas. In this case study you will use original documents to investigate how Kennedyï¿½s death affects our view of him. For key stage 3-5 (age 11-18)"/>

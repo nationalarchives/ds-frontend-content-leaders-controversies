@@ -1,5 +1,5 @@
 <meta name="DC.identifier" scheme="DCTERMS.URI" content="insert correct URL here" />
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Stalin & industrialisation | Was this a success?" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | Stalin & industrialisation | Was this a success?" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, poster, audio, letter, telegram, message, map, speech, Stalin, Russia, USSR, Soviet, Union, economy, war, industrialisation, factories, factory, Communism, Communist, Bolshevik, superpower, USA, Germany, five, year, plans, production, development, wealth, economic, famine, peasants, targets, food, gold" />
 <meta name="keywords" content="history, transcript, source, evidence, document, poster, audio, letter, telegram, message, map, speech, Stalin, Russia, USSR, Soviet, Union, economy, war, industrialisation, factories, factory, Communism, Communist, Bolshevik, superpower, USA, Germany, five, year, plans, production, development, wealth, economic, famine, peasants, targets, food, gold"/>
 <meta name="DCTERMS.temporal" content="1914-1953" />
