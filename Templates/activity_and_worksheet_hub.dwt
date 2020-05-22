@@ -16,7 +16,13 @@
 <!--#include file="/education/heroesvillains/includes/noscript_css.inc" -->
 </head><body onload="MM_preloadImages('../images/buttons/hv_print_d.gif')">
 <a name="top" id="top">
-<!--#include virtual="/includes/menusmicrosites/hv_breadcrumb.inc" -->
+<div id="breadcrumbdiv"><a href="/"><img src="/images/micrositea.gif" width="44" height="30" alt="The National Archives" align="middle" class="blackbreadcrumb" border="0"></a>
+
+<a href="/" class="bbreadcrumb">The National Archives</a><span class="bbreadcrumb"> > </span>
+
+<a href="/education/" class="bbreadcrumb">Education</a><span class="bbreadcrumb"> > </span>
+
+<a href="/education/heroesvillains/" class="bbreadcrumb" target="_top">Leaders &amp; Controversies</a></div>
 </a>
 <table width="100%"  border="0" cellspacing="0" cellpadding="0">
   <tr><!-- TemplateBeginEditable name="outline" -->
@@ -77,7 +83,7 @@
 	  <p class="bodyblack">Read the sources in the first case study called ‘Why target Dresden?’ For each source, ask yourself: Does this give us good reasons to bomb Dresden or not? Use the information in these sources to fill in this research table.</p>
 	  <p class="bodyblack">Open the table and print it out or save it to your computer.<br />
 	    <a href="/education/heroesvillains/rtf/g1_1activity.rtf" class="bodylink_text"><b>Research table</b></a></p>
-	<h2>Stage 2: Study the Map </h2>	  
+	<h2>Stage 2: Study the Map </h2>
       </td>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
   </tr>
@@ -107,7 +113,7 @@
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
     <td width="100%"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="730" height="15" /></td>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
-  </tr>  
+  </tr>
   <tr>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
     <td width="100%" align="left" valign="top">
@@ -116,7 +122,7 @@
       <h2>Stage 3: Prepare your Report </h2>
 	  <p class="bodyblack">What will you recommend to Churchill and the British commanders? Should they target Dresden? Use your research table and your map to help you answer this question. Use this report outline to get you started.</p>
 	  <p class="bodyblack">
-	    <a href="/education/heroesvillains/rtf/g1_1activity.rtf" class="bodylink_text"><b>Report out</b></a></p>  
+	    <a href="/education/heroesvillains/rtf/g1_1activity.rtf" class="bodylink_text"><b>Report out</b></a></p>
       </td>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
   </tr>
