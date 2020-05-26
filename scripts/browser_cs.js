@@ -1,8 +1,8 @@
 //check browser klee v1.0
-css_NS4 ="/education/heroesvillains/css/ns4.css";
-css_NS6 ="/education/heroesvillains/css/ns6.css";
-css_IE4 ="/education/heroesvillains/css/ie4.css";
-css_IE5 ="/education/heroesvillains/css/ie5.css";
+css_NS4 ="/education/leaders-and-controversies/css/ns4.css";
+css_NS6 ="/education/leaders-and-controversies/css/ns6.css";
+css_IE4 ="/education/leaders-and-controversies/css/ie4.css";
+css_IE5 ="/education/leaders-and-controversies/css/ie5.css";
 if(document.layers){
    document.write("<link rel='stylesheet' href='" + css_NS4 + "' type='text/css'>");
 }
