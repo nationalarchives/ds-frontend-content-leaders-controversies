@@ -9,8 +9,8 @@ function lcLoadMenus() {
   lc_menu_0.addMenuItem("Source&nbsp;4","location='g6cs2s4a.htm'");
   lc_menu_0.addMenuItem("Source&nbsp;5","location='g6cs2s5a.htm'");
   lc_menu_0.addMenuItem("Source&nbsp;6","location='g6cs2s6.htm'");
-  lc_menu_0.bgImageUp="/education/heroesvillains/images/dropdown/drop_option_d.gif";
-  lc_menu_0.bgImageOver="/education/heroesvillains/images/dropdown/drop_option_u.gif";
+  lc_menu_0.bgImageUp="/education/leaders-and-controversies/images/dropdown/drop_option_d.gif";
+  lc_menu_0.bgImageOver="/education/leaders-and-controversies/images/dropdown/drop_option_u.gif";
   lc_menu_0.fontWeight="normal";
   lc_menu_0.hideOnMouseOut=true;
   lc_menu_0.writeMenus();

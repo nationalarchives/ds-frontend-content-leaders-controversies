@@ -9,10 +9,10 @@ document.write("           CODEBASE='http://download.macromedia.com/pub/shockwav
 document.write("           WIDTH='600'");
 document.write("           HEIGHT='400'");
 document.write("           ID='theMovie'>");
-document.write("    		<PARAM NAME='src' VALUE='/education/heroesvillains/swf/zoomifyDynamicViewerlandscape.swf'>");
+document.write("    		<PARAM NAME='src' VALUE='/education/leaders-and-controversies/swf/zoomifyDynamicViewerlandscape.swf'>");
 document.write("			<PARAM NAME=wmode VALUE=transparent>");
 document.write("			<PARAM NAME='FlashVars' VALUE='" + paramString + "' >");
-document.write("		<EMBED SRC='/education/heroesvillains/swf/zoomifyDynamicViewerlandscape.swf'");
+document.write("		<EMBED SRC='/education/leaders-and-controversies/swf/zoomifyDynamicViewerlandscape.swf'");
 document.write("		   FlashVars='" + paramString + "'");
 document.write("           PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'");
 document.write("           WIDTH='600'");

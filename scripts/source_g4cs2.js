@@ -6,12 +6,12 @@ function lcLoadMenus() {
   lc_menu_0.addMenuItem("Source&nbsp;1","location='g4cs2s1a.htm'");
   lc_menu_0.addMenuItem("Source&nbsp;2","location='g4cs2s2.htm'");
   lc_menu_0.addMenuItem("Source&nbsp;3","location='g4cs2s3a.htm'");
-  lc_menu_0.addMenuItem("Source&nbsp;4","location='/education/heroesvillains/g4/cs2/g4cs2s4.htm?zoomifyImagePath=g4cs2s4zoom&amp;zoomifyNavX=0&amp;zoomifyNavY=0&amp;zoomifyX=-0.0252324037184595&amp;zoomifyY=0.0938815339057851&amp;zoomifyZoom=18&amp;zoomifyNavWidth=180&amp;zoomifyNavHeight=120&amp;zoomifySlider=1&amp;zoomifyMaxZoom=100&amp;zoomifyNavWindow=1&amp;zoomifyToolbar=1'");
+  lc_menu_0.addMenuItem("Source&nbsp;4","location='/education/leaders-and-controversies/g4/cs2/g4cs2s4.htm?zoomifyImagePath=g4cs2s4zoom&amp;zoomifyNavX=0&amp;zoomifyNavY=0&amp;zoomifyX=-0.0252324037184595&amp;zoomifyY=0.0938815339057851&amp;zoomifyZoom=18&amp;zoomifyNavWidth=180&amp;zoomifyNavHeight=120&amp;zoomifySlider=1&amp;zoomifyMaxZoom=100&amp;zoomifyNavWindow=1&amp;zoomifyToolbar=1'");
   lc_menu_0.addMenuItem("Source&nbsp;5","location='g4cs2s5.htm'");
   lc_menu_0.addMenuItem("Source&nbsp;6","location='g4cs2s6.htm'");
   lc_menu_0.addMenuItem("Source&nbsp;7","location='g4cs2s7.htm'");
-  lc_menu_0.bgImageUp="/education/heroesvillains/images/dropdown/drop_option_d.gif";
-  lc_menu_0.bgImageOver="/education/heroesvillains/images/dropdown/drop_option_u.gif";
+  lc_menu_0.bgImageUp="/education/leaders-and-controversies/images/dropdown/drop_option_d.gif";
+  lc_menu_0.bgImageOver="/education/leaders-and-controversies/images/dropdown/drop_option_u.gif";
   lc_menu_0.fontWeight="normal";
   lc_menu_0.hideOnMouseOut=true;
   lc_menu_0.writeMenus();
