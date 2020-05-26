@@ -1,4 +1,4 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Kennedy & Cuba | Did international relations improve?" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | Kennedy & Cuba | Did international relations improve?" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, photo, photograph, audio, letter, message, USA, Cuba, Kennedy, America, American, JFK, Castro, Soviet, USSR, Russia, Khrushchev, Macmillan, missile, crisis, weapons, war, nuclear, test, resting, ban, treaty, Kremlin, speech" />
 <meta name="keywords" content="history, transcript, source, evidence, document, photo, photograph, audio, letter, message, USA, Cuba, Kennedy, America, American, JFK, Castro, Soviet, USSR, Russia, Khrushchev, Macmillan, missile, crisis, weapons, war, nuclear, test, resting, ban, treaty, Kremlin, speech"/>
 <meta name="DCTERMS.temporal" content="1933-1963" />

@@ -8,7 +8,7 @@
 <!-- TemplateEndEditable -->
 <!--#include file="/education/heroesvillains/includes/meta_egms.inc" -->
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>The National Archives | Heroes &amp; Villains | Churchill &amp; Dresden | Why target Dresden? | Source 7</title>
+<title>The National Archives | Leaders &amp; Controversies | Churchill &amp; Dresden | Why target Dresden? | Source 7</title>
 <!-- TemplateEndEditable -->
 <script language="JavaScript" type="text/JavaScript" src="/education/heroesvillains/scripts/browser_cs.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/education/heroesvillains/scripts/roll_pop.js"></script>
@@ -21,14 +21,20 @@
 </head>
 <body onload="MM_preloadImages('../images/buttons/hv_print_d.gif')">
 <a name="top" id="top">
-<!--#include virtual="/includes/menusmicrosites/hv_breadcrumb.inc" --></a>
+<div id="breadcrumbdiv"><a href="/"><img src="/images/micrositea.gif" width="44" height="30" alt="The National Archives" align="middle" class="blackbreadcrumb" border="0"></a>
+
+<a href="/" class="bbreadcrumb">The National Archives</a><span class="bbreadcrumb"> > </span>
+
+<a href="/education/" class="bbreadcrumb">Education</a><span class="bbreadcrumb"> > </span>
+
+<a href="/education/heroesvillains/" class="bbreadcrumb" target="_top">Leaders &amp; Controversies</a></div></a>
 <script language="JavaScript" type="text/JavaScript">lcLoadMenus();</script>
 <table width="100%"  border="0" cellspacing="0" cellpadding="0">
   <tr><!-- TemplateBeginEditable name="outline" -->
     <td class="g1_outline"><a  href="/" ><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="121" height="87" border="0" /></a></td><!-- TemplateEndEditable -->
-    <td class="title_bg"><img src="/education/heroesvillains/images/layout/hv_title_heroes.gif" alt="Heroes" width="234" height="87" /></td>
+    <td class="title_bg"><img src="/education/heroesvillains/images/layout/hv_title_heroes.gif" alt="Leaders" width="234" height="87" /></td>
     <td class="bgcolor_0099AA"><img src="/education/heroesvillains/images/layout/hv_title_and.gif" alt="&amp;" width="57" height="87" /></td>
-    <td class="bgcolor_0099AA"><img src="/education/heroesvillains/images/layout/hv_title_villains.gif" alt="Villains" width="208" height="87" /></td>
+    <td class="bgcolor_0099AA"><img src="/education/heroesvillains/images/layout/hv_title_villains.gif" alt="Controversies" width=“369” height=“87" /></td>
     <td width="100%" class="title_bg_strip"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="51" height="87" /></td>
     <td class="title_bg_strip"><a href="http://www.nationalarchives.gov.uk"><img src="/education/heroesvillains/images/layout/hv_title_tnalogo.gif" alt="the national archives" width="109" height="87" border="0" /></a></td>
   </tr>
@@ -43,7 +49,7 @@
   </tr>
   <tr class="hv_breadcrumb">
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="5" /></td>
-    <td width="100%" valign="middle"><a href="/education/heroesvillains/" class="breadcrumb_text">Home</a> 
+    <td width="100%" valign="middle"><a href="/education/heroesvillains/" class="breadcrumb_text">Home</a>
         &gt; <!-- TemplateBeginEditable name="gallery_breadname" --><a href="/education/heroesvillains/g1/" class="breadcrumb_text">Churchill &amp; Dresden</a><!-- TemplateEndEditable --> &gt; <!-- TemplateBeginEditable name="castudy_breadname" --><a href="/education/heroesvillains/g1/cs1/" class="breadcrumb_text">Why target Dresden?</a><!-- TemplateEndEditable --> &gt; <!-- TemplateBeginEditable name="source_breadname" -->Source 7<!-- TemplateEndEditable --></td>
     <td width="83">&nbsp;</td>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="5" /></td>
@@ -86,7 +92,7 @@
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
     <td align="left" valign="top"><!-- TemplateBeginEditable name="doc_ref" -->an example of a <a href="/education/heroesvillains/credits/" class="ref_link">credits</a> hyperlink (PRO: PC8/584)<!-- TemplateEndEditable --></td>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
-  </tr>  
+  </tr>
   <tr>
     <td width="25"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
     <td><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="25" height="15" /></td>
@@ -129,17 +135,17 @@
         <td align="left" valign="top"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="260" height="15" /></td>
       </tr>
       <tr>
-    <td width="100%" align="left" valign="top" class="bodyblack"><!-- TemplateBeginEditable name="content" --> 
+    <td width="100%" align="left" valign="top" class="bodyblack"><!-- TemplateBeginEditable name="content" -->
 			  <p>You are a British reporter covering the first anniversary of Martin Luther King’s assassination. It is your job to write a newspaper article assessing his life and death. Read this source carefully and all the other sources in this case study. Find out more on the link below.</p>
-			  
-			 <a href="/education/heroesvillains/activity/g6cs4_activity.htm" class="bodylink_text"><strong>Activity: Write an article on the anniversary of King’s death</strong></a> 
+
+			 <a href="/education/heroesvillains/activity/g6cs4_activity.htm" class="bodylink_text"><strong>Activity: Write an article on the anniversary of King’s death</strong></a>
 			  <!-- TemplateEndEditable --></td>
       </tr>
       <tr>
         <td align="left" valign="top"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="260" height="15" /></td>
       </tr>
       <tr>
-        <td align="left" valign="top" class="hv_bodylink"><!-- TemplateBeginEditable name="background" --><a href="/education/heroesvillains/background/g2_background.htm" class="bodylink_text">Background</a> | <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="worksheet" --><a href="/education/heroesvillains/activity/g1_activity.htm" class="bodylink_text">Worksheet</a><!-- TemplateEndEditable --> 
+        <td align="left" valign="top" class="hv_bodylink"><!-- TemplateBeginEditable name="background" --><a href="/education/heroesvillains/background/g2_background.htm" class="bodylink_text">Background</a> | <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="worksheet" --><a href="/education/heroesvillains/activity/g1_activity.htm" class="bodylink_text">Worksheet</a><!-- TemplateEndEditable -->
         | <!-- TemplateBeginEditable name="timeline" --><a href="/education/heroesvillains/timeline/g1_timeline.htm" class="bodylink_text">Timeline</a><!-- TemplateEndEditable --></td>
       </tr>
     </table></td>

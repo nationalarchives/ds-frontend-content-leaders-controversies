@@ -1,4 +1,4 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Kennedy & Cuba" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | Kennedy & Cuba" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, photo, photograph, map, audio, USA, America, American, president, Kennedy, JFK, Cuba, crisis, Soviet, USSR, Russia, Khrushchev, missile, missiles, nuclear, weapon, weapons, war, cold, Castro, bay of pigs, invasion, Macmillan, blockade, UN, United Nations, Kremlin, speech, broadcast, assassination, assassinated, killed, death, Dallas, Texas, motorcade" />
 <meta name="keywords" content="history, transcript, source, evidence, document, photo, photograph, map, audio, USA, America, American, president, Kennedy, JFK, Cuba, crisis, Soviet, USSR, Russia, Khrushchev, missile, missiles, nuclear, weapon, weapons, war, cold, Castro, bay of pigs, invasion, Macmillan, blockade, UN, United Nations, Kremlin, speech, broadcast, assassination, assassinated, killed, death, Dallas, Texas, motorcade"/>
 <meta name="DCTERMS.temporal" content="1933-1963" />

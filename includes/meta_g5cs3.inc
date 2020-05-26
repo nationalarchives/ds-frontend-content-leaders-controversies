@@ -1,4 +1,4 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | Truman & the atomic bomb | Hiroshima & Nagasaki" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | Truman & the atomic bomb | Hiroshima & Nagasaki" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, photo, photograph, poster, film, audio, letter, telegram, message, speech, map, Japan, Japanese, USA, America, Allies, Allied, atomic, bomb, hydrogen, h-bomb, nuclear, Truman, explosion, explode, weapon, Pacific, Emperor, Hirohito, Hiroshima, Nagasaki, blast, casualties, people, died, dead, pearl harbour, enola gay, plane, dropped" />
 <meta name="keywords" content="history, transcript, source, evidence, document, photo, photograph, poster, film, audio, letter, telegram, message, speech, map, Japan, Japanese, USA, America, Allies, Allied, atomic, bomb, hydrogen, h-bomb, nuclear, Truman, explosion, explode, weapon, Pacific, Emperor, Hirohito, Hiroshima, Nagasaki, blast, casualties, people, died, dead, pearl harbour, enola gay, plane, dropped"/>
 <meta name="DCTERMS.temporal" content="1939-1949" />

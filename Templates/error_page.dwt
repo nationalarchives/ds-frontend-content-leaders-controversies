@@ -14,15 +14,21 @@
 <!--#include virtual="/education/heroesvillains/includes/noscript_css.inc" -->
 </head><body onload="MM_preloadImages('/education/heroesvillains/images/buttons/hv_print_d.gif')">
 <a name="top" id="top">
-<!--#include virtual="/includes/menusmicrosites/hv_breadcrumb.inc" -->
+<div id="breadcrumbdiv"><a href="/"><img src="/images/micrositea.gif" width="44" height="30" alt="The National Archives" align="middle" class="blackbreadcrumb" border="0"></a>
+
+<a href="/" class="bbreadcrumb">The National Archives</a><span class="bbreadcrumb"> > </span>
+
+<a href="/education/" class="bbreadcrumb">Education</a><span class="bbreadcrumb"> > </span>
+
+<a href="/education/heroesvillains/" class="bbreadcrumb" target="_top">Leaders &amp; Controversies</a></div>
 </a>
 <table width="100%"  border="0" cellspacing="0" cellpadding="0">
   <tr><!-- TemplateBeginEditable name="outline" -->
     <td><a href="/" ><img src="/education/heroesvillains/images/layout/hv_title_g1_outline.gif" alt="" width="121" height="87" border="0" /></a></td>
     <!-- TemplateEndEditable -->
-    <td class="title_bg"><img src="/education/heroesvillains/images/layout/hv_title_heroes.gif" alt="Heroes" width="234" height="87" /></td>
+    <td class="title_bg"><img src="/education/heroesvillains/images/layout/hv_title_heroes.gif" alt="Leaders" width="234" height="87" /></td>
     <td class="bgcolor_0099AA"><img src="/education/heroesvillains/images/layout/hv_title_and.gif" alt="&amp;" width="57" height="87" /></td>
-    <td class="bgcolor_0099AA"><img src="/education/heroesvillains/images/layout/hv_title_villains.gif" alt="Villains" width="208" height="87" /></td>
+    <td class="bgcolor_0099AA"><img src="/education/heroesvillains/images/layout/hv_title_villains.gif" alt="Controversies" width=“369” height=“87" /></td>
     <td width="100%" class="title_bg_strip"><img src="/education/heroesvillains/images/pixels/hextrans.gif" alt="" width="51" height="87" /></td>
     <td class="title_bg_strip"><a href="http://www.nationalarchives.gov.uk"><img src="/education/heroesvillains/images/layout/hv_title_tnalogo.gif" alt="the national archives" width="109" height="87" border="0" /></a></td>
   </tr>
@@ -99,9 +105,9 @@
 	  			<li><span>Click the <a href="javascript:history.back(1)" class="plainblack">Back</a> button to try another link.</span></li>
 				<li><span>Contact the site administrator to establish client certificate permissions.</span></li>
 				<li><span>Change your client certificate and retry, if appropriate.</span></li>
-				<li><span>If you believe you should be able to view this directory or 
-            page, please contact the Web site administrator by using the email 
-            address on the <a href="/contactus.htm" class="plainblack">Heroes &amp; Villains</a> Web page.</span></li>
+				<li><span>If you believe you should be able to view this directory or
+            page, please contact the Web site administrator by using the email
+            address on the <a href="/contactus.htm" class="plainblack">Leaders &amp; Controversies</a> Web page.</span></li>
 				</ul>
 				<p class="bodyblack">HTTP 403.4 - Forbidden: SSL required<br/>
 				Internet Information Services</p>

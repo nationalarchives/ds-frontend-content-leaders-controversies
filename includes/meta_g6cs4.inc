@@ -1,4 +1,4 @@
-<meta name="DC.title" content="The National Archives Learning Curve | Heroes & Villains | King & civil rights | After his death" />
+<meta name="DC.title" content="The National Archives Learning Curve | Leaders & Controversies | King & civil rights | After his death" />
 <meta name="DC.subject" content="history, transcript, source, evidence, document, civil rights, black, white, race, segregation, desegregation, racial discrimination, Martin Luther King, Martin, Luther, King, direct action, world, leader, assassination, death, Memphis, Tennessee, James Earl Ray, Hoover, Kennedy, President Johnson, Civil Rights bill, Civil Rights Act" />
 <meta name="keywords" content="history, transcript, source, evidence, document, civil rights, black, white, race, segregation, desegregation, racial discrimination, Martin Luther King, Martin, Luther, King, direct action, world, leader, assassination, death, Memphis, Tennessee, James Earl Ray, Hoover, Kennedy, President Johnson, Civil Rights bill, Civil Rights Act" />
 <meta name="DCTERMS.temporal" content="1968" />
